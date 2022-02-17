@@ -1,5 +1,12 @@
 # Project Ideas
 
+## Media Manager
+
+Index of movies, music, and books
+
+* To read/view/hear
+* Take-aways
+
 ## Household Financial Manager
 
 * CD
