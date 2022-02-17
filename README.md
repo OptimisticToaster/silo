@@ -4,46 +4,6 @@ A project to practice development in Python and possibly other web technologies 
 
 There will be initial goals such as establishing the main models and CRUD interface. Later goals will be expand for additional apps.
 
-## Project Options
-
-### Household Financial Manager
-
-* CD
-* Automobiles
-  * Assets
-  * Liabilities
-* Real Estate
-  * Assets
-  * Liabilities
-* Stocks / Mutual Funds / ETFs
-  * Holdings
-  * Transactions (buy, sell, dividends)
-* Notes
-* Files
-
-A bank account manager would be good too, but factoring running-totals may be more difficult so is held-over for future work.
-
-### IT Manager
-
-* Users
-* Software License
-* Hardware
-* Notes
-* Files
-
-### Health Manager
-
-* Nutrition
-  * Consumption
-  * Plan
-* Workout
-  * Cardio
-  * Weight
-* Health Stats Tracking
-* Medical Appointments
-* Notes
-* Files
-
 ## Communication
 
 Use a Discord chat for general chat purposes.
