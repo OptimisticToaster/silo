@@ -1,14 +1,12 @@
 # silo
 
-A project to practice web-development in Django with a team looking to learn or mentor together.
-
-This project is meant to help a team learn Django development together. A focus will be on development more than 
+A project to practice development in Python and possibly other web technologies with a team looking to learn or mentor together.
 
 There will be initial goals such as establishing the main models and CRUD interface. Later goals will be expand for additional apps.
 
-There will be limited focus on user interface, basically with Bootstrap organizing the layout. For now, the intent will be to keep the focus on Django without confusing matters.
+## Project Options
 
-## Option A - Household Financial Manager
+### Household Financial Manager
 
 * CD
 * Automobiles
@@ -25,7 +23,7 @@ There will be limited focus on user interface, basically with Bootstrap organizi
 
 A bank account manager would be good too, but factoring running-totals may be more difficult so is held-over for future work.
 
-## Option B - IT Manager
+### IT Manager
 
 * Users
 * Software License
@@ -33,7 +31,7 @@ A bank account manager would be good too, but factoring running-totals may be mo
 * Notes
 * Files
 
-## Option C - Health Manager
+### Health Manager
 
 * Nutrition
   * Consumption
@@ -52,7 +50,7 @@ Use a Discord chat for general chat purposes.
 
 ## Ticketing
 
-Need a system that easily provides issue and bug ticketing.
+Need a system that easily provides issue and bug ticketing. MantisBT has worked pretty nicely. Or if it's a small group, possibly Markdown files.
 
 ## Log Work
 
