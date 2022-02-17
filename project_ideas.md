@@ -6,6 +6,10 @@ Index of movies, music, and books
 
 * To read/view/hear
 * Take-aways
+* Data
+  * Type
+  * Rating
+  * Take-away
 
 ## Household Financial Manager
 
@@ -16,9 +20,10 @@ Index of movies, music, and books
 * Real Estate
   * Assets
   * Liabilities
-* Stocks / Mutual Funds / ETFs
+* Stocks / Mutual Funds / ETFs / Bonds
   * Holdings
   * Transactions (buy, sell, dividends)
+* Insurance
 * Notes
 * Files
 
@@ -47,7 +52,20 @@ A bank account manager would be good too, but factoring running-totals may be mo
 
 ## Recipe Manager
 
+* Recipe
+* Ingredients
+* Steps
+
 ## Getting Things Done (GTD) Manager
+
+* Projects
+* Actions
+* References
+  * Projects
+  * Actions
+  * Events
+* Inbox
+* Agenda
 
 ## URL Shortener
 
