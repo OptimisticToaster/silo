@@ -58,3 +58,9 @@ A bank account manager would be good too, but factoring running-totals may be mo
 ## Time Tracking
 
 ## Landing Page/Portal
+
+## Schoolwork Manager
+
+## Shopping Bot
+
+Say "I want __" and have it look for the best deal.
