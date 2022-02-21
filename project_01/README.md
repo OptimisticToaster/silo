@@ -14,6 +14,8 @@ Operating System: Windows
 
 ## Environment Setup
 
+For these setups, all applications are installed. That is to mean that they are registered with the operating system. If you prefer to use decompressed folders or "portable" editions, you may need to manually configure additional items.
+
 ### Install Python
 
 1. Open web browser to https://www.python.org/downloads/
@@ -25,6 +27,21 @@ Operating System: Windows
 6. Check that the install was successful.
   1. Open command prompt
   2. Run `python --version` to check the installation was successful.
+
+### Install Editor
+
+Recommended is VS Code (https://code.visualstudio.com). Alternatively, could use a myriad of other text editors.
+
+### Install Git
+
+1. Download from https://git-scm.com/downloads
+2. Run the installer, and select the default options.
+  1. One exception is which editor is the default for Git to open.
+  2. Set name for initial branches to `main`.
+
+To run Git Bash, select it from the Start menu. Note that it operates like a Linux terminal (using BASH, not Windows).
+
+For graphic interface, run Git Gui.
 
 ### Create Virtual Environment
 
